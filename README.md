@@ -21,10 +21,8 @@ Outside of coding, I’m curious about how technology shapes everyday life and I
 
 <p align="center">
   <a href="(https://www.linkedin.com/in/tran-khanh-4221282a8/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="(https://github.com/vkhanht1)">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge" />
   </a>
 </p>
 
