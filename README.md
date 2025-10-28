@@ -19,12 +19,10 @@ Outside of coding, I’m curious about how technology shapes everyday life and I
 
 ---
 
-<p align="center">
-  <a href="(https://www.linkedin.com/in/tran-khanh-4221282a8/)">
-  </a>
-  <a href="(https://github.com/vkhanht1)">
-  </a>
-</p>
+## 📫 Let’s connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tran-khanh-4221282a8/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vkhanht1)
+
 
 ---
 
