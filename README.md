@@ -15,7 +15,7 @@
 
 💼 I’m currently expanding my skills in **software testing**, **web performance optimization**, and **modern frontend design patterns. I continuously learn through Coursera and Codecademy courses in testing and web technologies.
 
-Outside of coding, I’m curious about how technology shapes everyday life and I enjoy creative UI design, tech communities, and sharing knowledge with others.
+🌌 Outside of coding, I’m curious about how technology shapes everyday life and I enjoy creative UI design, tech communities, and sharing knowledge with others.
 
 ---
 
