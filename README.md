@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hello, I'm Khanh </h1>
-<h3 align="center">Final-year Computer Science Student | Web Developer | Software Engineering </h3>
+<h3 align="center">Final-year Computer Engineering Student | Web Developer | Software Engineering </h3>
 
 💻 I love building full-stack applications using **MERN Stack** and **Spring Boot**, and exploring how AI can enhance development workflows.  
 
