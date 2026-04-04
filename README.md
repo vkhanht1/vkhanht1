@@ -14,6 +14,7 @@
 - **Testing & Automation Scripts** — A collection of projects focusing on REST API design, performance optimization, and automated testing.
 
 🛠 Tech Stack:
+
 Languages: JavaScript (ES6+), Java, Python, C++, HTML5, CSS3
 
 Frameworks/Libraries: React, Redux, Node.js, Express.js, Spring Boot
@@ -23,6 +24,7 @@ Databases: MongoDB, MySQL
 Tools & DevOps: Git, GitHub, Docker, Postman, Linux
 
 🔭 Currently Exploring:
+
 Python for Software Development: Deepening my knowledge in Python for automation and backend services.
 
 System Programming: Strengthening my C++ fundamentals and data structures.
