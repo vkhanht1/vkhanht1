@@ -13,26 +13,19 @@
 - **Movie Website** - I have developed several web projects including a Movie Website (React + Vite).
 - **Testing & Automation Scripts** — A collection of projects focusing on REST API design, performance optimization, and automated testing.
 
-🛠 Tech Stack:
+### 🛠 Tech Stack
+- **Languages:** JavaScript (ES6+), Java, Python, C++, HTML5/CSS3
+- **Frameworks/Libraries:** React (Vite), Node.js, Spring Boot, PyTorch, Torchvision
+- **Databases:** MongoDB, MySQL, Redis
+- **Tools & DevOps:** Docker, Git, Linux, Postman, Matplotlib, NumPy
 
-Languages: JavaScript (ES6+), Java, Python, C++, HTML5, CSS3
+### 🔭 Currently Exploring
+- **Deep Learning & Computer Vision:** Mastering PyTorch to build and deploy advanced image recognition models.
+- **System-Level Programming:** Deepening C++ fundamentals and efficient data structures for backend performance.
+- **Software Quality:** Implementing modern testing patterns and CI/CD automation.
 
-Frameworks/Libraries: React, Redux, Node.js, Express.js, Spring Boot
-
-Databases: MongoDB, MySQL
-
-Tools & DevOps: Git, GitHub, Docker, Postman, Linux
-
-🔭 Currently Exploring:
-
-Python for Software Development: Deepening my knowledge in Python for automation and backend services.
-
-System Programming: Strengthening my C++ fundamentals and data structures.
-
-Testing Excellence: Enhancing software quality through modern testing frameworks and performance optimization patterns.
-
-🌌 Beyond Coding
-I’m a tech enthusiast who enjoys creative UI design, contributing to tech communities, and staying curious about how technology shapes our everyday lives. I believe in continuous learning, currently refining my skills through Coursera and Codecademy.
+### 🌌 Beyond Coding
+I am a tech enthusiast who enjoys creative UI design, contributing to tech communities, and exploring how AI shapes our future. I believe in continuous learning, currently refining my machine learning skills through hands-on projects and platforms like Coursera.
 
 ---
 
