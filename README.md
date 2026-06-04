@@ -22,14 +22,36 @@ Aside from core development, I actively implement modern DevOps practices to ens
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Python, Java, JavaScript (ES6+), HTML5/CSS3 |
-| **Frameworks & AI** | PyTorch, Torchvision, Spring Boot, Node.js, React (Vite) |
-| **Databases & Caching** | MongoDB, MySQL, Redis |
-| **Tools & DevOps** | Docker, Git, Linux (Bash), Postman, NumPy, Matplotlib |
+#### 🚀 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash Shell](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+#### 🌐 Frameworks & AI libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005C99?style=for-the-badge&logo=onnx&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0000.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ⚙️ Tools & DevOps
+![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -42,15 +64,17 @@ Aside from core development, I actively implement modern DevOps practices to ens
 
 🎙️ **NVIDIA NeMo ASR: FastConformer & ONNX Deployment**
 - An end-to-end Automatic Speech Recognition pipeline using the NVIDIA NeMo framework, optimized via ONNX Runtime for high-performance GPU/CPU inference.
-- **MLOps Focus:** (In Progress) Containerizing the inference service using FastAPI and Docker, supported by an automated CI/CD pipeline for instant production-ready deployment.
+- Focused on resolving deep-link configurations (OmegaConf) and managing environment synchronization.
 
 💈 **Warsaw Beauty Salon Explorer**
 - A comprehensive multi-service system designed to collect, explore, and manage hair and beauty salon datasets across Warsaw.
 - **Robust Architecture:** Engineered a high-performance backend using **Kotlin** and **Spring Boot (JPA)** running directly on top of an automated data collection layer built with **Python & SQLite**.
 - **DevOps & Portability:** Fully containerized via **Docker** using persistent Docker Volumes for shared data synchronization. Integrated an automated **GitHub Actions CI/CD** pipeline to build and deliver micro-service container images to GitHub Packages.
 
-🎬 **Interactive Movie Platform**
-- A responsive, modern web application built with React and Vite, showcasing creative UI/UX design and external API integrations.
+📚 **ML & Deep Learning Core Study Notes**
+- A comprehensive repository showcasing practical implementations of fundamental AI concepts using **PyTorch** and **TensorFlow/Keras**.
+- **Hardware Acceleration:** Demonstrated proficiency in leveraging **NVIDIA CUDA** for accelerated model training, custom tensor operations, and shape manipulations.
+- **Computer Vision Foundations:** Implemented Artificial Neural Networks (ANN) for image classification task architectures (Fashion MNIST) along with multidimensional array data processing (NumPy).
 
 ---
 
